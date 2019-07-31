@@ -36,29 +36,3 @@ export const palette = {
         contrastText: '#fff'
     },
 };
-
-export const backgrounds = {
-    success: {
-        backgroundColor: "#dff0d8",
-        color: "#3c763d",
-        borderColor: "#d6e9c6",
-    },
-
-    info: {
-        backgroundColor: "#d9edf7",
-        color: "#31708f",
-        borderColor: "#bce8f1",
-    },
-
-    warning: {
-        backgroundColor: "#f0ad4e",
-        color: "#fff",
-        borderColor: "#eea236",
-    },
-
-    danger: {
-        backgroundColor: "#5cb85c",
-        color: "#fff",
-        borderColor: "#4cae4c",
-    }
-}

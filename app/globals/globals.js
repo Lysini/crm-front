@@ -28,34 +28,12 @@ export const estateTypes = [
     "Grunt",
     "Mieszkanie",
     "Budynek"
-    // {
-    //     label: "Grunt",
-    //     name: "ground"
-    // },
-    // {
-    //     label: "Mieszkanie",
-    //     name: "flat"
-    // },
-    // {
-    //     label: "Dom",
-    //     name: "house"
-    // }
-
 ]
 
 export const groundTypes = [
     "Rolny",
     "Budowlany",
     "Rolno-budowlany"
-    // {
-    //     label: "Rolny"
-    // },
-    // {
-    //     label: "Budowlany"
-    // },
-    // {
-    //     label: "Rolno-budowlany"
-    // }
 ]
 
 export const executionStatuses = [
