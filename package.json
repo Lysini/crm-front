@@ -16,7 +16,7 @@
     "bootstrap": "^4.3.1",
     "classnames": "^2.2.6",
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.21.2",
     "font-awesome": "^4.7.0",
     "html-loader": "^0.5.5",
     "material-ui": "^0.20.2",
@@ -34,7 +34,7 @@
     "react-hot-loader": "^4.6.5",
     "react-router-dom": "^4.3.1",
     "webpack-cli": "^3.1.0",
-    "webpack-dashboard": "^2.0.0"
+    "webpack-dashboard": "^3.3.8"
   },
   "devDependencies": {
     "autoprefixer": "^9.0.1",
